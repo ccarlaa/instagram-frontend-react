@@ -1,11 +1,45 @@
-## ⚡️ Front-end do Instagram em React 
+[**English**](#camera-instagram-front-end-in-react)
+[**Portuguese**](#-sobre)
 
-<p>Aplicação front-end que visa replicar o layout do aplicativo Instagram.</p>
+## :camera: Instagram Front-end in React
 
-<img src=public/imagens/instagram_react.gif  width="300" />
+<p>Front-end application aiming to replicate the layout of the Instagram app.</p>
+
+<img src=public/imagens/instagram_react.gif width="300" />
 
 [Instagram](https://instagram-frontend-react.vercel.app/)
 
+## 📝 About
+
+<p>The application was created to gain experience with the React library. It was designed to be responsive for three different screen dimensions, and the following technologies were used: CSS, HTML, Javascript, and React.</p>
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react&theme=light)](https://skills.thijs.gg)
+
+## 📁 Project Access
+
+You can [access the project's source code](https://github.com/ccarlaa/instagram-frontend-react) or [download it](https://github.com/ccarlaa/instagram-frontend-react/archive/refs/heads/main.zip).
+
+## 🛠️ Open and Run the Project
+
+After downloading the project, you can open it with Visual Studio Code. To do this, on the launcher screen, click:
+
+1. File > Open Folder
+2. Locate the project's location and select it (If the project is downloaded as a zip file, it needs to be extracted before locating it.)
+3. Finally, click Open
+4. Then open the terminal and install the dependencies with the following command:
+
+```bash
+npm install 
+```
+5. To run de project,execute:
+
+```bash
+npm startmoneybag-minha-carteira
+``` 
+
+6. Finally, access http://localhost:3000 in your browser.
+
+***
 ## 📝 Sobre
 
 <p>A aplicação foi feita com o objetivo de adquirir experiência com a biblioteca React. A mesma foi feita de forma responsiva para três dimensões de tela diferentes e foram utilizadas as seguintes tecnologias: CSS, HTML, Javascript e React.</p>
