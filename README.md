@@ -3,8 +3,6 @@
 
 ## :camera: Instagram Front-end in React
 
-<p>Front-end application aiming to replicate the layout of the Instagram app.</p>
-
 <img src=public/imagens/instagram_react.gif width="300" />
 
 [Instagram](https://instagram-frontend-react.vercel.app/)
